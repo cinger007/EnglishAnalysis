@@ -51,8 +51,8 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'UPC Python\'s BLOG'
-copyright = u'2019, UPC@李昕'
+project = u'English Analysis\'s BLOG'
+copyright = u'2019, 李昕@UPC China'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -70,7 +70,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Python-Time BLOG'
+htmlhelp_basename = 'English-Analysis BLOG'
 
 
 # -- Options for LaTeX output ---------------------------------------------
